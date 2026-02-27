@@ -66,7 +66,7 @@
 | 🧱 [BLOCKY](https://github.com/BLOCKY-EDU) | Blockly 기반 웹 프론트엔드 교육 플랫폼 | React, Spring Boot, Blockly |
 | 🏠 [CrossCheck](https://github.com/C-ross-C-heck) | 전세사기 예방을 위한 서류 검토 챗봇 | React, JavaScript |
 | 🌿 [쉼표 (ShimPyo)](https://github.com/orgs/HSU-shimpyo/repositories) | 천식환자를 위한 딥러닝 기반 호흡 관리 앱 🏆한성공학경진대회 은상 | React, Java, Python |
-| 🍴 [FORK](https://github.com/FORK-FE-BE) | AI 추천 기반 배달 서비스 | React, JavaScript  |
+| 🍴 [FORK](https://github.com/FORK-FE-BE) | AR 기반 배달 서비스 | React, JavaScript  |
 | 📚 [CAU-Library](https://github.com/CAU-Library-Project) | 도서관 관련 프로젝트 | Python |
 | 💪 [FitLog](https://github.com/SKN-27th-FitLog) | SK Connect 서비스 (SK 부트캠프 커뮤니티 서비스) | - |
 | 🚗 [RecallCkecker](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN27-1ST-2TEAM) | 자동차 리콜 통합 조회 시스템  | Python, Streamlit |

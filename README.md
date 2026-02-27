@@ -126,8 +126,9 @@
 <h3 align="center">📊 GitHub Stats 📊</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ye-eun-min201&hide_border=true&background=fff0f5&ring=f9a8c9&fire=ffb3c1&currStreakLabel=f9a8c9&sideLabels=f9a8c9&currStreakNum=aaaaaa&sideNums=aaaaaa&dates=cccccc" height="160"/>
+  <img src="https://ghchart.rshah.org/f9a8c9/ye-eun-min201" alt="ye-eun-min201's Github Contribution Chart"/>
 </div>
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ye-eun-min201&theme=rose_pine&hide_border=true" height="160"/>
@@ -138,20 +139,9 @@
 
 ---
 
-<h3 align="center">📫 Contact 📫</h3>
 
-<div align="center">
-  <a href="https://github.com/ye-eun-min201">
-    <img src="https://img.shields.io/badge/GitHub-E8D5FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
 
-<br/>
 
-<!-- 방문자 수 -->
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fye-eun-min201&count_bg=%23F9A8C9&title_bg=%23FFD1DC&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true"/>
-</div>
 
 <br/>
 

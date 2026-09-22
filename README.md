@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="profile.jpg" width="380" style="border-radius:14px" alt="working"/>
+<img src="profile.png" width="130" alt="profile"/>
 
 ### 안녕하세요, 임예은입니다 👋
 
